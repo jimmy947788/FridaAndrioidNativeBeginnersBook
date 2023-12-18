@@ -9,7 +9,6 @@ android {
     defaultConfig {
         applicationId "com.roysue.anti1"
         minSdkVersion 16
-        targetSdk 30
         versionCode 1
         versionName "1.0"
 
